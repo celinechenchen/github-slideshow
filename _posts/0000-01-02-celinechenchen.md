@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+yum yum in my tum
 Use the left arrow to go back!
 add
